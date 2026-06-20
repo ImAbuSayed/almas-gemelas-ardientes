@@ -1,4 +1,4 @@
-# Almas gemelas ardientes
+# Almas gemelas ardientes, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Almas gemelas ardientes |
+| **Title** | Almas gemelas ardientes, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/almas-gemelas-ardientes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Almas gemelas ardientes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/almas-gemelas-ardientes/) |
+| **Get License** | [Get License For Almas gemelas ardientes, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/almas-gemelas-ardientes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la noche nos llama y el instinto no miente
+> Dos almas cruzadas, un fuego que siempre se siente
+> Si apagan las luces, tú sabes que somos ardientes
+> No importa el destino, perdámonos entre la gente
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ea87f84a1c5ad20546a9016edf1fc2549065ba976ceefdf6214f4cca2717e70f` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
